@@ -4,11 +4,12 @@
 
 🐾Fun fact:
 - I love nature — trees don’t crash like my code
-- I have a dog
+- I have a dog who’s always beside me while I code — chilling in a comfy chair stacked with cushions like royalty 🐕👑
 - I am a Co-founder of a startup (yes, I drink coffee now)
 
 Wanna say hi or talk about open source? Let’s connect! 
-📫 How to reach me: on BlueSky @neja333
+📫 How to reach me: on [my BlueSky](https://bsky.app/profile/neja333.bsky.social)
+
 
 
 <!--
