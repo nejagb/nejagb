@@ -1,5 +1,16 @@
 ## Hi there 👋
 
+🐍 I’m currently learning Python
+
+🐾Fun fact:
+- I love nature — trees don’t crash like my code
+- I have a dog
+- I am a Co-founder of a startup (yes, I drink coffee now)
+
+Wanna say hi or talk about open source? Let’s connect! 
+📫 How to reach me: on BlueSky @neja333
+
+
 <!--
 **nejagb/nejagb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
